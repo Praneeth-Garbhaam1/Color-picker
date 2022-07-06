@@ -1,0 +1,1 @@
+This is a colorpicker App where picking on the color changes the  background
